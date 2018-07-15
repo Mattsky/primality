@@ -33,7 +33,7 @@ prime_check - the function used to check whether a given input is prime.
 
 ##### Client
 
-addr_check - the function that checks for valid server IP addresses to connect to
+addr_check - the function that checks for valid server IP addresses to connect to  
 input_check - the function that checks the user-entered input is actually valid
 
 Core functionality testing can be performed as such:
